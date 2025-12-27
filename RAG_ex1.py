@@ -1,0 +1,2 @@
+def retrieval(query):
+    return 
